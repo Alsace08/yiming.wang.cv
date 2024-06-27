@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yiming Wang - Homepage"
+title                    : "Yiming Wang"
 description              : "In me the tiger sniffs the rose. "
 repository               : "Alsace08/yiming.wang.cv"
 google_scholar_stats_use_cdn : true
@@ -22,6 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yiming Wang"
+  zh_name          : "王一鸣"
   avatar           : "images/112.jpg"
   bio              : "Ph.D. Candidate @ SJTU"
   location         : "Shanghai, China"
