@@ -18,17 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-#### **Hello, I'm Yiming Wang (王一鸣).**
+### **Hello, I'm Yiming Wang (王一鸣).**
 
 I was born in Jiangsu Province, China, in August 2001. I'm now a first-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
 
 # 🔬 Research
 
-I mainly focus on these areas oriented towards Large Language Models (LLMs) and Machine Learning (ML):
+My research field is Natural Language Processing (NLP). Now I mainly focus on these areas oriented towards Large Language Models (LLMs) and Machine Learning (ML):
 
 * Machine Reasoning **(Primary)**:
   - Pushing the Upper Limits of LLMs' Known Reasoning Ability [Meta-Reasoning, ACL 2024]
-  - Exploring the Boundaries of LLM Reasoning Ability [OOD Detection in MATH, Arxiv 2024]
+  - Exploring the Boundaries of LLM Reasoning Ability [MATH-OOD-Detection, Arxiv 2024]
 
 * Discrete Generation:
   - Text Generation: Summarization [SumCoT, ACL 2023]; [CPSUM, COLING 2022]
@@ -43,19 +43,18 @@ I mainly focus on these areas oriented towards Large Language Models (LLMs) and 
 
 # 💻 Internships
 - *2024.03 - Present*, Tongyi Laboratory, Damo Academy, Alibaba, Hangzhou.
-    - Mentor: Pei Zhang, Baosong Yang
+    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, Baosong Yang
 - *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
-    - Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
+    - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
 - *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
-    - Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
-
-
-# 🔥 News
+    - Research Intern: NLP & Graph Learning; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
 
 
 
 
-# 📝 Publications I: Machine Reasoning
+# 📝 Publications
+
+## I Machine Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,23 +70,26 @@ I mainly focus on these areas oriented towards Large Language Models (LLMs) and 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/abs/2306.17820)
+[Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning]([https://arxiv.org/abs/2306.17820](https://arxiv.org/abs/2405.14039))
 
-**Yiming Wang**, Zhuosheng Zhang, Pei Zhang, Baosong Yang, Rui Wang
+**Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
+
+<a href='[https://github.com/zwhe99/X-SIR](https://github.com/Alsace08/OOD-Math-Reasoning)'><button class="code-btn">CODE</button></a>
+
+</div>
+</div>
 
 
 
+- [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents]([https://github.com](https://arxiv.org/abs/2311.11797))
+  Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
 
-- [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents]([https://github.com](https://arxiv.org/abs/2311.11797)), Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+
+
 
 # 🎖 Honors and Awards
-
-
-
-
-# 💬 Invited Talks
 
 
