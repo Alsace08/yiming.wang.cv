@@ -64,6 +64,9 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 <a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
+* We establish the equivalence mapping from semantics to symbols under the purely natural language
+* Meta-Reasoning substantially generalize the reasoning capability of LLMs
+
 </div>
 </div>
 
@@ -78,8 +81,8 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
 
-* Discover the ``pattern collapse'' phenomenon under mathematical reasoning
-* Propose embedding trajectory volatility (TV Score) to detect OOD samples
+* We discover the ''pattern collapse'' phenomenon under mathematical reasoning
+* We propose embedding trajectory volatility (TV Score) to detect OOD samples
 
 </div>
 </div>
@@ -96,15 +99,14 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 <a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
 
-* Discover the ``pattern collapse'' phenomenon under mathematical reasoning
-* Propose embedding trajectory volatility (TV Score) to detect OOD samples
+* A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents
 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/sumcot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method](https://aclanthology.org/2023.acl-long.482/)
@@ -113,6 +115,10 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 <a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
 
+* We construct expert-writing element-aware summary test sets to evaluate general summarization systems more objectively
+* We revisit the zero-shot summarization ability of LLMs.
+* We propose **SumCoT**, which allows the LLMs to generate more fine-grained summaries step by step.
+
 
 </div>
 </div>
@@ -121,7 +127,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='images/cpsum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization](https://aclanthology.org/2022.coling-1.561/)
@@ -130,7 +136,9 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
-
+* We introduce consistency regularization on the extractive summarization task for the first time
+* We propose a pseudo-label selection method based on dynamic average entropy comparison and a ramp-up pseudo-label exploration strategy
+  
 </div>
 </div>
 
@@ -138,7 +146,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/factchecking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://ieeexplore.ieee.org/abstract/document/10027671)
@@ -147,7 +155,9 @@ Qianren Mao, **Yiming Wang**, Chenghong Yang, Linfeng Du, Hao Peng, Jia Wu, Jian
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
-
+* We propose a claim-evidence language graph model upon progressive tuple, fact, and sentence levels.
+* We combine the semantic and topological information of the graph neural network
+  
 </div>
 </div>
 
@@ -155,7 +165,7 @@ Qianren Mao, **Yiming Wang**, Chenghong Yang, Linfeng Du, Hao Peng, Jia Wu, Jian
 
 # 🎖 Honors and Awards
 
-*2023.06:* Outstanding Graduate of Beijing (5%)
-*2023.01*: Outstanding Teaching Assistant for Algebra Courses
-*2021.12*: Ministry of Education-Huawei ``Future Star'' Joint Commendation Scholarship
-*2020.12:* The first prize of the National College Student Mathematics Competition
+* *2023.06:* Outstanding Graduate of Beijing (5%)
+* *2023.01*: Outstanding Teaching Assistant for Algebra Courses
+* *2021.12*: Ministry of Education-Huawei ``Future Star'' Joint Commendation Scholarship
+* *2020.12:* The first prize of the National College Student Mathematics Competition
