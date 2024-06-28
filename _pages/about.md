@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Profile
 
-**Hello, I'm Yiming Wang.**
+#### **Hello, I'm Yiming Wang (王一鸣).**
 
-I was born in Jiangsu Province, China, in August 2001. I'm now a first-year Ph.D. candidate at the <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University(SJTU)</a>, supervised by Prof. <a href="https://wangruinlp.github.io/">Rui Wang</a>. Before that, I received a Bachelor's degree from the <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University(BUAA)</a>.
+I was born in Jiangsu Province, China, in August 2001. I'm now a first-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
+
+# 🔬 Research
 
 I mainly focus on these areas oriented towards Large Language Models (LLMs) and Machine Learning (ML):
 
@@ -36,14 +37,17 @@ I mainly focus on these areas oriented towards Large Language Models (LLMs) and 
 * Others: LLM Agent, Computational Linguistics
 
 # 📖 Educations
-- *2023.09 - Present*, Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai
-- *2019.09 - 2023.06*, Institute of Artificial Intelligence, Beihang University, Beijing
+- *2023.09 - Present*, <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU)</a>, Shanghai, China
+- *2019.09 - 2023.06*, <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University (BUAA)</a>, Beijing, China
 
 
 # 💻 Internships
-- *2024.03 - Present*, Tongyi Laboratory, Damo Academy, Alibaba, Hangzhou
-- *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing
-- *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing
+- *2024.03 - Present*, Tongyi Laboratory, Damo Academy, Alibaba, Hangzhou.
+    - Mentor: Pei Zhang, Baosong Yang
+- *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
+    - Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
+- *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
+    - Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
 
 
 # 🔥 News
@@ -53,7 +57,7 @@ I mainly focus on these areas oriented towards Large Language Models (LLMs) and 
 
 # 📝 Publications I: Machine Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/abs/2306.17820)
@@ -64,6 +68,18 @@ I mainly focus on these areas oriented towards Large Language Models (LLMs) and 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/abs/2306.17820)
+
+**Yiming Wang**, Zhuosheng Zhang, Pei Zhang, Baosong Yang, Rui Wang
+
+
+
 
 - [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents]([https://github.com](https://arxiv.org/abs/2311.11797)), Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
 
