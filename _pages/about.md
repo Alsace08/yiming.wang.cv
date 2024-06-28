@@ -79,8 +79,8 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
 
-<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-lg btn-primary" disabled>CODE</button></a>
-<a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-secondary btn-lg" disabled>PDF</button></a>
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a>
+<a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a>
 
 * We discover the ''pattern collapse'' phenomenon under mathematical reasoning
 * We propose embedding trajectory volatility (TV Score) to detect OOD samples
