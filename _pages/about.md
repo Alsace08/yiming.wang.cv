@@ -54,7 +54,6 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 # 📝 Publications
 
-## I Machine Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,8 +62,8 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 **Yiming Wang**, Zhuosheng Zhang, Pei Zhang, Baosong Yang, Rui Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
+
 </div>
 </div>
 
@@ -73,23 +72,90 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning]([https://arxiv.org/abs/2306.17820](https://arxiv.org/abs/2405.14039))
+[Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
 
-<a href='[https://github.com/zwhe99/X-SIR](https://github.com/Alsace08/OOD-Math-Reasoning)'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
+
+* Discover the ``pattern collapse'' phenomenon under mathematical reasoning
+* Propose embedding trajectory volatility (TV Score) to detect OOD samples
 
 </div>
 </div>
 
 
 
-- [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents]([https://github.com](https://arxiv.org/abs/2311.11797))
-  Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
+
+Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
+
+* Discover the ``pattern collapse'' phenomenon under mathematical reasoning
+* Propose embedding trajectory volatility (TV Score) to detect OOD samples
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method](https://aclanthology.org/2023.acl-long.482/)
+
+**Yiming Wang**, Zhuosheng Zhang, Rui Wang
+
+<a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
+
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization](https://aclanthology.org/2022.coling-1.561/)
+
+**Yiming Wang**, Qianren Mao, Junnan Liu, Weifeng Jiang, Hongdong Zhu, Jianxin Li
+
+<a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
+
+
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://ieeexplore.ieee.org/abstract/document/10027671)
+
+Qianren Mao, **Yiming Wang**, Chenghong Yang, Linfeng Du, Hao Peng, Jia Wu, Jianxin Li, Zheng Wang
+
+<a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
+
+
+</div>
+</div>
 
 
 
 # 🎖 Honors and Awards
 
-
+*2023.06:* Outstanding Graduate of Beijing (5%)
+*2023.01*: Outstanding Teaching Assistant for Algebra Courses
+*2021.12*: Ministry of Education-Huawei ``Future Star'' Joint Commendation Scholarship
+*2020.12:* The first prize of the National College Student Mathematics Competition
