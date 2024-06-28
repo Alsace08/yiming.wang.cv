@@ -65,7 +65,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 <a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
 * We establish the equivalence mapping from semantics to symbols under the purely natural language
-* Meta-Reasoning substantially generalize the reasoning capability of LLMs
+* Meta-Reasoning substantially generalizes the reasoning capability of LLMs
 
 </div>
 </div>
@@ -79,7 +79,8 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
 
-<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-lg btn-primary" disabled>CODE</button></a>
+<a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-secondary btn-lg" disabled>PDF</button></a>
 
 * We discover the ''pattern collapse'' phenomenon under mathematical reasoning
 * We propose embedding trajectory volatility (TV Score) to detect OOD samples
