@@ -57,7 +57,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
@@ -79,7 +79,7 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**, CC
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/Meta-Reasoning.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/abs/2306.17820)
@@ -100,7 +100,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL 2024 Find
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/sumcot.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/sumcot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method](https://aclanthology.org/2023.acl-long.482/)
@@ -123,7 +123,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, C
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/cpsum.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/cpsum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization](https://aclanthology.org/2022.coling-1.561/)
@@ -142,7 +142,7 @@ International Conference on Computational Linguistics (**COLING 2022**, CCF-B)
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fact Checking</div><img src='images/factchecking.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fact Checking</div><img src='images/factchecking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://ieeexplore.ieee.org/abstract/document/10027671)
@@ -163,7 +163,7 @@ International Conference on Data Mining (**ICDM 2022**, CCF-B)
 
 # 📝 Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
@@ -188,5 +188,5 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 * *2023.06:* Outstanding Graduate of Beijing (5%)
 * *2023.01:* Outstanding Teaching Assistant for Algebra Courses
 * *2021.12:* Ministry of Education-Huawei ``Future Star'' Joint Commendation Scholarship
-* *2020.12:* The 1st prize of the National College Student Mathematics Competition
+* *2020.12:* The 1st prize in Beijing of the National College Student Mathematics Competition
 * *2018.09:* The 1st prize in Jiangsu Province of the Mathematical Competition of Senior High School of China
