@@ -24,33 +24,29 @@ I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.
 
 # 🔬 Research
 
-My research field is Natural Language Processing (NLP). Now I mainly focus on these areas oriented towards Large Language Models (LLMs) and Machine Learning (ML):
+My research field is Natural Language Processing (NLP). Now I mainly focus on these areas oriented toward Large Language Models (LLMs) and Machine Learning (ML):
 
 * Machine Reasoning **(Primary)**:
-  - Pushing the Upper Limits of LLMs' Known Reasoning Ability [Meta-Reasoning, ACL 2024]
-  - Exploring the Boundaries of LLM Reasoning Ability [MATH-OOD-Detection, Arxiv 2024]
+  - Pushing the Upper Limits of LLMs' Known Reasoning Ability
+  - Exploring the Boundaries of LLM Reasoning Ability
 
 * Discrete Generation:
-  - Text Generation: Summarization [SumCoT, ACL 2023]; [CPSUM, COLING 2022]
-  - Molecular Generation: Retrosynthesis [RetroDiff, Arxiv 2023]
+  - Text Generation: Summarization
+  - Molecular Generation: Retrosynthesis
 
-* Others: LLM Agent, Computational Linguistics
-
-
+* Others: Interpretable AI, Trustworthy AI
 
 
-# 📖 Educations
-- *2023.09 - Present*, <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU)</a>, Shanghai, China
-- *2019.09 - 2023.06*, <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University (BUAA)</a>, Beijing, China
 
+# 🔥 News
 
-# 💻 Internships
-- *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
-    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, Dr. Baosong Yang
-- *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
-    - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
-- *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
-    - Research Intern: NLP & Graph Learning; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
+- *2024.09*: One paper about Mathematical Reasoning and Out-of-Distribution Detection is accepted by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.
+- *2024.09*: Two paper about Summarization and LLM Safety are accepted by <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
+- *2024.05*: One paper about LLM Reasoning is accepted by <a href="https://2024.aclweb.org/">ACL 2024</a>.
+- *2023.06*: I earn my B.S. in Artificial Intelligence with a 1/31 overall ranking.
+- *2023.05*: One paper about LLM Summarization (SumCoT) is accepted by <a href="https://2023.aclweb.org/">ACL 2023</a>.
+- *2022.08*: One paper about Low-resource Summarization is accepted by <a href="https://coling2022.org/">COLING 2022</a>.
+
     
 
 
@@ -178,6 +174,24 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 </div>
 
 
+# 📖 Educations
+- *2023.09 - Present*, <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU)</a>, Shanghai, China
+- *2019.09 - 2023.06*, <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University (BUAA)</a>, Beijing, China
+
+
+# 💻 Internships
+- *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
+    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, Dr. Baosong Yang
+- *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
+    - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
+- *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
+    - Research Intern: NLP & Graph Learning; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
+
+
+# 💬 Service
+
+- Reviewer: ICLR (2025), ACL Rolling Review (2024)
+- Teaching Assistant: Natural Language Processing and Large Language Model (for the John Class, CS3966, 2024)
 
 
     
