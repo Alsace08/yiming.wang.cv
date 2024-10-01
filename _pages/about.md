@@ -20,7 +20,7 @@ redirect_from:
 
 ### **Hello, I'm Yiming Wang (王一鸣).**
 
-I was born in Jiangsu Province, China, in August 2001. I'm now a first-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
+I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
 
 # 🔬 Research
 
@@ -36,31 +36,57 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 * Others: LLM Agent, Computational Linguistics
 
+
+
+
 # 📖 Educations
 - *2023.09 - Present*, <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU)</a>, Shanghai, China
 - *2019.09 - 2023.06*, <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University (BUAA)</a>, Beijing, China
 
 
 # 💻 Internships
-- *2024.03 - Present*, Tongyi Laboratory, Damo Academy, Alibaba, Hangzhou.
-    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, Baosong Yang
+- *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
+    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, Dr. Baosong Yang
 - *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
     - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
 - *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
     - Research Intern: NLP & Graph Learning; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
-
-
+    
 
 
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
+
+**Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
+
+Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**, CCF-A)
+
+% <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a>
+% <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a>
+
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
+
+* We discover the ''pattern collapse'' phenomenon under mathematical reasoning
+* We propose embedding trajectory volatility (TV Score) to detect OOD samples
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models](https://arxiv.org/abs/2306.17820)
 
 **Yiming Wang**, Zhuosheng Zhang, Pei Zhang, Baosong Yang, Rui Wang
+
+Annual Meeting of the Association for Computational Linguistics (**ACL 2024 Findings**, CCF-A)
 
 <a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
@@ -72,47 +98,16 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
-
-**Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
-
-<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a>
-<a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a>
-
-* We discover the ''pattern collapse'' phenomenon under mathematical reasoning
-* We propose embedding trajectory volatility (TV Score) to detect OOD samples
-
-</div>
-</div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
-
-Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
-
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
-
-* A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/sumcot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/sumcot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method](https://aclanthology.org/2023.acl-long.482/)
 
 **Yiming Wang**, Zhuosheng Zhang, Rui Wang
+
+Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, CCF-A)
 
 <a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
 
@@ -128,12 +123,14 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='images/cpsum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/cpsum.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization](https://aclanthology.org/2022.coling-1.561/)
 
 **Yiming Wang**, Qianren Mao, Junnan Liu, Weifeng Jiang, Hongdong Zhu, Jianxin Li
+
+International Conference on Computational Linguistics (**COLING 2022**, CCF-B)
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
@@ -145,14 +142,14 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/factchecking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fact Checking</div><img src='images/factchecking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://ieeexplore.ieee.org/abstract/document/10027671)
 
 Qianren Mao, **Yiming Wang**, Chenghong Yang, Linfeng Du, Hao Peng, Jia Wu, Jianxin Li, Zheng Wang
+
+International Conference on Data Mining (**ICDM 2022**, CCF-B)
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
@@ -164,9 +161,32 @@ Qianren Mao, **Yiming Wang**, Chenghong Yang, Linfeng Du, Hao Peng, Jia Wu, Jian
 
 
 
+# 📝 Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
+
+Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
+
+* A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents
+
+</div>
+</div>
+
+
+
+
+    
+
+
 # 🎖 Honors and Awards
 
 * *2023.06:* Outstanding Graduate of Beijing (5%)
-* *2023.01*: Outstanding Teaching Assistant for Algebra Courses
-* *2021.12*: Ministry of Education-Huawei ``Future Star'' Joint Commendation Scholarship
-* *2020.12:* The first prize of the National College Student Mathematics Competition
+* *2023.01:* Outstanding Teaching Assistant for Algebra Courses
+* *2021.12:* Ministry of Education-Huawei ``Future Star'' Joint Commendation Scholarship
+* *2020.12:* The 1st prize of the National College Student Mathematics Competition
+* *2018.09:* The 1st prize in Jiangsu Province of the Mathematical Competition of Senior High School of China
