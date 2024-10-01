@@ -50,7 +50,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
     
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
@@ -157,7 +157,7 @@ International Conference on Data Mining (**ICDM 2022**, CCF-B)
 
 
 
-# 📝 Preprint
+# 📝 Selected Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,7 +181,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 # 💻 Internships
 - *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
-    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, Dr. Baosong Yang
+    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
 - *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
     - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
 - *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
