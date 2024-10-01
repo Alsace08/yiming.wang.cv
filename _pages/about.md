@@ -66,13 +66,13 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**, CCF-A)
 
-% <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a>
-% <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a>
+<!-- <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a> -->
+<!-- <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a> -->
 
 <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
 
-* We discover the ''pattern collapse'' phenomenon under mathematical reasoning
-* We propose embedding trajectory volatility (TV Score) to detect OOD samples
+<!-- * We discover the ''pattern collapse'' phenomenon under mathematical reasoning -->
+<!-- * We propose embedding trajectory volatility (TV Score) to detect OOD samples -->
 
 </div>
 </div>
@@ -90,8 +90,8 @@ Annual Meeting of the Association for Computational Linguistics (**ACL 2024 Find
 
 <a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
-* We establish the equivalence mapping from semantics to symbols under the purely natural language
-* Meta-Reasoning substantially generalizes the reasoning capability of LLMs
+<!-- * We establish the equivalence mapping from semantics to symbols under the purely natural language -->
+<!-- * Meta-Reasoning substantially generalizes the reasoning capability of LLMs -->
 
 </div>
 </div>
@@ -111,9 +111,9 @@ Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, C
 
 <a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
 
-* We construct expert-writing element-aware summary test sets to evaluate general summarization systems more objectively
-* We revisit the zero-shot summarization ability of LLMs.
-* We propose **SumCoT**, which allows the LLMs to generate more fine-grained summaries step by step.
+<!-- * We construct expert-writing element-aware summary test sets to evaluate general summarization systems more objectively -->
+<!-- * We revisit the zero-shot summarization ability of LLMs. -->
+<!-- * We propose **SumCoT**, which allows the LLMs to generate more fine-grained summaries step by step. -->
 
 
 </div>
@@ -134,8 +134,8 @@ International Conference on Computational Linguistics (**COLING 2022**, CCF-B)
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
-* We introduce consistency regularization on the extractive summarization task for the first time
-* We propose a pseudo-label selection method based on dynamic average entropy comparison and a ramp-up pseudo-label exploration strategy
+<!-- * We introduce consistency regularization on the extractive summarization task for the first time -->
+<!-- * We propose a pseudo-label selection method based on dynamic average entropy comparison and a ramp-up pseudo-label exploration strategy -->
   
 </div>
 </div>
@@ -153,8 +153,8 @@ International Conference on Data Mining (**ICDM 2022**, CCF-B)
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
-* We propose a claim-evidence language graph model upon progressive tuple, fact, and sentence levels.
-* We combine the semantic and topological information of the graph neural network
+<!-- * We propose a claim-evidence language graph model upon progressive tuple, fact, and sentence levels. -->
+<!-- * We combine the semantic and topological information of the graph neural network -->
   
 </div>
 </div>
@@ -172,7 +172,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 <a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
 
-* A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents
+<!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
 
 </div>
 </div>
