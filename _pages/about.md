@@ -26,15 +26,17 @@ I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.
 
 My research field is Natural Language Processing (NLP). Now I mainly focus on these areas oriented toward Large Language Models (LLMs) and Machine Learning (ML):
 
-* Machine Reasoning **(Primary)**:
+* Trustworthy and Interpretable AI:
+  - Explaining (controllably) the mechanisms of how LLMs work in various settings
+  - Finding generalized laws in internal representations
+
+* Machine Reasoning:
   - Pushing the Upper Limits of LLMs' Known Reasoning Ability
   - Exploring the Boundaries of LLM Reasoning Ability
 
-* Discrete Generation:
+* Discrete Generation (former, task-oriented):
   - Text Generation: Summarization
   - Molecular Generation: Retrosynthesis
-
-* Others: Interpretable AI, Trustworthy AI
 
 
 
@@ -56,11 +58,11 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
+[Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
 
-Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**, CCF-A)
+**[NeurIPS 2024]** Annual Conference on Neural Information Processing Systems
 
 <!-- <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a> -->
 <!-- <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a> -->
@@ -75,6 +77,24 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**, CC
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/AlignSum.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AlignSum: Data Pyramid Hierarchical Fine-tuning for Aligning with Human Summarization Preference](https://arxiv.org/abs/2410.00409)
+
+Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
+
+**[EMNLP 2024]** Findings of Empirical Methods in Natural Language Processing
+
+<a href='https://github.com/csyanghan/AlignSum'><button class="code-btn">CODE</button></a>
+
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,7 +102,7 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**, CC
 
 **Yiming Wang**, Zhuosheng Zhang, Pei Zhang, Baosong Yang, Rui Wang
 
-Annual Meeting of the Association for Computational Linguistics (**ACL 2024 Findings**, CCF-A)
+**[ACL 2024]** Findings of Annual Meeting of the Association for Computational Linguistics
 
 <a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
@@ -103,7 +123,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL 2024 Find
 
 **Yiming Wang**, Zhuosheng Zhang, Rui Wang
 
-Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, CCF-A)
+[**ACL 2023**] Annual Meeting of the Association for Computational Linguistics
 
 <a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
 
@@ -126,7 +146,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL 2023**, C
 
 **Yiming Wang**, Qianren Mao, Junnan Liu, Weifeng Jiang, Hongdong Zhu, Jianxin Li
 
-International Conference on Computational Linguistics (**COLING 2022**, CCF-B)
+**[COLING 2022]** International Conference on Computational Linguistics
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
@@ -138,26 +158,23 @@ International Conference on Computational Linguistics (**COLING 2022**, CCF-B)
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fact Checking</div><img src='images/factchecking.png' alt="sym" width="100%"></div></div>
+
+# 📝 Selected Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy AI, Interpretable AI</div><img src='images/CoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://ieeexplore.ieee.org/abstract/document/10027671)
+[Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation]([https://ieeexplore.ieee.org/abstract/document/10027671](https://arxiv.org/abs/2410.13640))
 
-Qianren Mao, **Yiming Wang**, Chenghong Yang, Linfeng Du, Hao Peng, Jia Wu, Jianxin Li, Zheng Wang
+**Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang
 
-International Conference on Data Mining (**ICDM 2022**, CCF-B)
+<a href='https://github.com/Alsace08/Chain-of-Embedding'><button class="code-btn">CODE</button></a>
 
-<a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
-
-<!-- * We propose a claim-evidence language graph model upon progressive tuple, fact, and sentence levels. -->
-<!-- * We combine the semantic and topological information of the graph neural network -->
   
 </div>
 </div>
 
 
-
-# 📝 Selected Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,17 +198,19 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 # 💻 Internships
 - *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
-    - Research Intern: Multilingual LLMs; Mentor: Pei Zhang, <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
+    - Research Intern: Multilingual LLMs (on Qwen); Mentor: <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
 - *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
     - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
 - *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
-    - Research Intern: NLP & Graph Learning; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
+    - Research Intern: Graph Learning / NLP; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
 
 
 # 💬 Service
 
 - Reviewer: ICLR (2025), ACL Rolling Review (2024)
-- Teaching Assistant: Natural Language Processing and Large Language Model (for the John Class, CS3966, 2024)
+- Teaching Assistant:
+    - Natural Language Processing and Large Language Model (for the John Class (SJTU), CS3966, 2024)
+    - Advanced Algebra (Beihang University, 2020-2022)
 
 
     
