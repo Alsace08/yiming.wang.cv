@@ -67,7 +67,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 <!-- <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a> -->
 <!-- <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a> -->
 
-<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><i class="fa-brands fa-github"></i></a>
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><i class="fa-github"></i></a>
 
 <!-- * We discover the ''pattern collapse'' phenomenon under mathematical reasoning -->
 <!-- * We propose embedding trajectory volatility (TV Score) to detect OOD samples -->
