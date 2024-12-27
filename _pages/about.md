@@ -66,8 +66,8 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 <!-- <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a> -->
 <!-- <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a> -->
-<i class="fa fa-github" aria-hidden="true"></i>
-<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><i class="fa fa-github" aria-hidden="true"></i></a>
+
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
 
 <!-- * We discover the ''pattern collapse'' phenomenon under mathematical reasoning -->
 <!-- * We propose embedding trajectory volatility (TV Score) to detect OOD samples -->
@@ -86,7 +86,7 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 **[EMNLP 2024]** Findings of Empirical Methods in Natural Language Processing
 
-<a href='https://github.com/csyanghan/AlignSum'><i class="fa-brands fa-github"></i></a>
+<a href='https://github.com/csyanghan/AlignSum'><button class="code-btn">CODE</button></a>
 
 
 </div>
@@ -104,7 +104,7 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 **[ACL 2024]** Findings of Annual Meeting of the Association for Computational Linguistics
 
-<a href='https://github.com/Alsace08/Meta-Reasoning'><i class="fa-brands fa-github"></i></a>
+<a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
 <!-- * We establish the equivalence mapping from semantics to symbols under the purely natural language -->
 <!-- * Meta-Reasoning substantially generalizes the reasoning capability of LLMs -->
@@ -125,7 +125,7 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 [**ACL 2023**] Annual Meeting of the Association for Computational Linguistics
 
-<a href='https://github.com/Alsace08/SumCoT'><i class="fa-brands fa-github"></i></a>
+<a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
 
 <!-- * We construct expert-writing element-aware summary test sets to evaluate general summarization systems more objectively -->
 <!-- * We revisit the zero-shot summarization ability of LLMs. -->
@@ -148,9 +148,8 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 **[COLING 2022]** International Conference on Computational Linguistics
 
-<a href='https://github.com/OpenSUM/CPSUM'><i class="fa-brands fa-github"></i></a>
 
-<!-- <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a> -->
+<a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
 <!-- * We introduce consistency regularization on the extractive summarization task for the first time -->
 <!-- * We propose a pseudo-label selection method based on dynamic average entropy comparison and a ramp-up pseudo-label exploration strategy -->
@@ -170,7 +169,7 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang
 
-<a href='https://github.com/Alsace08/Chain-of-Embedding'><i class="fa-brands fa-github"></i></a>
+<a href='https://github.com/Alsace08/Chain-of-Embedding'><button class="code-btn">CODE</button></a>
 
   
 </div>
@@ -185,7 +184,7 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
 
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><i class="fa-brands fa-github"></i></a>
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
 
 <!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
 
