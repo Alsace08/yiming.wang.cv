@@ -171,6 +171,8 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 <a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
 
+<p style="color:red;"><b>This is my first research paper, and also the last one on the eve of the LLM era.</b></p>
+
 <!-- * We introduce consistency regularization on the extractive summarization task for the first time -->
 <!-- * We propose a pseudo-label selection method based on dynamic average entropy comparison and a ramp-up pseudo-label exploration strategy -->
   
