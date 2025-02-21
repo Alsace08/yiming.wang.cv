@@ -42,10 +42,11 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 # 🔥 News
 
+- *2025.01*: Two papers about Trustworthy AI and Mathematical Reasoning are accepted by <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
 - *2024.09*: One paper about Mathematical Reasoning and Out-of-Distribution Detection is accepted by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.
-- *2024.09*: Two paper about Summarization and LLM Safety are accepted by <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
+- *2024.09*: Two paper about Summarization and LLM Agent are accepted by <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
 - *2024.05*: One paper about LLM Reasoning is accepted by <a href="https://2024.aclweb.org/">ACL 2024</a>.
-- *2023.06*: I earn my B.S. in Artificial Intelligence with a 1/31 overall ranking.
+- *2023.06*: I earned my B.S. in Artificial Intelligence with a 1/31 overall ranking.
 - *2023.05*: One paper about LLM Summarization (SumCoT) is accepted by <a href="https://2023.aclweb.org/">ACL 2023</a>.
 - *2022.08*: One paper about Low-resource Summarization is accepted by <a href="https://coling2022.org/">COLING 2022</a>.
 
@@ -53,6 +54,41 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 
 # 📝 Selected Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
+
+Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+
+**[ACM Computing Surveys]** (SCI Q1, IF=23.8)
+
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
+
+<!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy AI, Interpretable AI</div><img src='images/CoE-results.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation](https://arxiv.org/abs/2410.13640)
+
+**Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang
+
+**[ICLR 2025]** International Conference on Learning Representations
+
+<a href='https://github.com/Alsace08/Chain-of-Embedding'><button class="code-btn">CODE</button></a>
+
+  
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
@@ -77,22 +113,6 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Summarization</div><img src='images/AlignSum.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AlignSum: Data Pyramid Hierarchical Fine-tuning for Aligning with Human Summarization Preference](https://arxiv.org/abs/2410.00409)
-
-Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
-
-**[EMNLP 2024]** Findings of Empirical Methods in Natural Language Processing
-
-<a href='https://github.com/csyanghan/AlignSum'><button class="code-btn">CODE</button></a>
-
-
-</div>
-</div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/Meta-Reasoning.png' alt="sym" width="100%"></div></div>
@@ -102,7 +122,7 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 **Yiming Wang**, Zhuosheng Zhang, Pei Zhang, Baosong Yang, Rui Wang
 
-**[ACL 2024]** Findings of Annual Meeting of the Association for Computational Linguistics
+**[ACL 2024 Findings]** Annual Meeting of the Association for Computational Linguistics
 
 <a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
 
@@ -162,34 +182,6 @@ Yang Han, **Yiming Wang**, Rui Wang, Lu Chen, Kai Yu
 
 # 📝 Selected Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy AI, Interpretable AI</div><img src='images/CoE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation]([https://ieeexplore.ieee.org/abstract/document/10027671](https://arxiv.org/abs/2410.13640))
-
-**Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang
-
-<a href='https://github.com/Alsace08/Chain-of-Embedding'><button class="code-btn">CODE</button></a>
-
-  
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
-
-Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
-
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
-
-<!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
-
-</div>
-</div>
 
 
 # 📖 Educations
@@ -199,7 +191,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 # 💻 Internships
 - *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
-    - Research Intern: Multilingual LLMs (on Qwen); Mentor: <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
+    - Research Intern: Multi-lingual/modal LLMs; Mentor: <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
 - *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
     - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
 - *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
@@ -208,9 +200,10 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 # 💬 Service
 
-- Reviewer: ICLR (2025), ACL Rolling Review (2024)
+- Reviewer: ICLR (2025), ACL Rolling Review (2024-), IEEE TASLP (2024-)
 - Teaching Assistant:
-    - Natural Language Processing and Large Language Model (for the John Class (SJTU), CS3966, 2024)
+    - Natural Language Processing and Large Language Model (for the John Class (SJTU), CS3966, 2024-)
+    - Cognitive Basis (Beihang University, 2022)
     - Advanced Algebra (Beihang University, 2020-2022)
 
 
