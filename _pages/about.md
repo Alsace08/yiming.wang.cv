@@ -88,21 +88,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 # 📝 Selected Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
-
-Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
-
-**[ACM Computing Surveys]** (SCI Q1, IF=23.8)
-
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">Code</button></a>
-
-<!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
-
-</div>
-</div>
 
 
 
@@ -144,6 +130,22 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/CoT_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents](https://arxiv.org/abs/2311.11797)
+
+Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yiming Wang**, Mark Gerstein, Rui Wang, Gongshen Liu, Hai Zhao
+
+**[ACM Computing Surveys]** (SCI Q1, IF=23.8)
+
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">Code</button></a>
+
+<!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
+
+</div>
+</div>
 
 
 
