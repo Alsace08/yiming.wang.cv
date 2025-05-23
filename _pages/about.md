@@ -22,6 +22,21 @@ redirect_from:
 
 I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
 
+
+# 📖 Educations
+- *2023.09 - Present*, <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU)</a>, Shanghai, China
+- *2019.09 - 2023.06*, <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University (BUAA)</a>, Beijing, China
+
+
+# 💻 Internships
+- *2024.07 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
+    - Research Intern: Multi-lingual/modal LLMs; Mentor: <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
+- *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
+    - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
+- *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
+    - Research Intern: Graph Learning / NLP; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
+
+    
 # 🔬 Research
 
 My research field is Natural Language Processing (NLP). Now I mainly focus on these areas oriented toward Large Language Models (LLMs) and Machine Learning (ML):
@@ -92,7 +107,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trustworthy AI, Interpretable AI</div><img src='images/CoE-results.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interpretable AI, Trustworthy AI</div><img src='images/CoE-results.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation](https://arxiv.org/abs/2410.13640)
@@ -219,23 +234,9 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 
 
-# 📖 Educations
-- *2023.09 - Present*, <a href="https://www.cs.sjtu.edu.cn/">Department of Computer Science and Engineering, Shanghai Jiao Tong University (SJTU)</a>, Shanghai, China
-- *2019.09 - 2023.06*, <a href="https://iai.buaa.edu.cn/">Institute of Artificial Intelligence, Beihang University (BUAA)</a>, Beijing, China
-
-
-# 💻 Internships
-- *2024.03 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
-    - Research Intern: Multi-lingual/modal LLMs; Mentor: <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
-- *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
-    - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
-- *2021.11 - 2022.09*, ACT Lab, Department of Computer Science and Engineering, Beihang University, Beijing.
-    - Research Intern: Graph Learning / NLP; Mentor: Qianren Mao, <a href="https://myjianxin.github.io/">Prof. Jianxin Li</a>
-
-
 # 💬 Service
 
-- Reviewer: ICLR (2025), ACL Rolling Review (2024-), IEEE TASLP (2024-)
+- Reviewer: NeurIPS (2025-), ICLR (2025-), ACL Rolling Review (2024-), IEEE TASLP (2024-)
 - Teaching Assistant:
     - Natural Language Processing and Large Language Model (for the John Class (SJTU), CS3966, 2024-)
     - Cognitive Basis (Beihang University, 2022)
