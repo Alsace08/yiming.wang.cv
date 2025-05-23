@@ -39,7 +39,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 # 🔥 News
 
-- *2025.04*: 🎉🎉We construct <a href="https://huggingface.co/datasets/Alsace08/PolyMath">PolyMath</a>, a challenging multilingual mathematical reasoning benchmark, and used for standard evaluation by <a href="https://arxiv.org/abs/2505.09388">Qwen3</a>
+- *2025.04*: 🎉We construct <a href="https://huggingface.co/datasets/Alsace08/PolyMath">PolyMath</a>, a challenging multilingual mathematical reasoning benchmark, and used for standard evaluation by <a href="https://arxiv.org/abs/2505.09388">Qwen3</a>
 - *2025.01*: Two papers about Interpretable AI and Mathematical Reasoning are accepted by <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
 - *2024.09*: One paper about Mathematical Reasoning and Out-of-Distribution Detection is accepted by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.
 - *2024.09*: Two paper about Summarization and LLM Agent are accepted by <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
