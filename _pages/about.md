@@ -26,29 +26,61 @@ I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.
 
 My research field is Natural Language Processing (NLP). Now I mainly focus on these areas oriented toward Large Language Models (LLMs) and Machine Learning (ML):
 
-* Trustworthy and Interpretable AI:
-  - Explaining (controllably) the mechanisms of how LLMs work in various settings
-  - Finding generalized laws in internal representations
+* Interpretable AI:
+  - Behavioral Laws in the Latent Space (Chain-of-Embedding, ICLR 2025)
+  - Controlled Meta-Behavioral Analysis like Physics
 
 * Machine Reasoning:
-  - Pushing the Upper Limits of LLMs' Known Reasoning Ability
-  - Exploring the Boundaries of LLM Reasoning Ability
+  - Enhancing LLM Reasoning Ability and Efficiency (ST-BoN)
+  - Evaluating the Boundaries of LLM Reasoning (PolyMath)
 
-* Discrete Generation (former, task-oriented):
-  - Text Generation: Summarization
-  - Molecular Generation: Retrosynthesis
 
 
 
 # 🔥 News
 
-- *2025.01*: Two papers about Trustworthy AI and Mathematical Reasoning are accepted by <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
+- *2025.04*: 🎉🎉We construct <a href="https://huggingface.co/datasets/Alsace08/PolyMath">PolyMath</a>, a challenging multilingual mathematical reasoning benchmark, and used for standard evaluation by <a href="https://arxiv.org/abs/2505.09388">Qwen3</a>
+- *2025.01*: Two papers about Interpretable AI and Mathematical Reasoning are accepted by <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
 - *2024.09*: One paper about Mathematical Reasoning and Out-of-Distribution Detection is accepted by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.
 - *2024.09*: Two paper about Summarization and LLM Agent are accepted by <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
 - *2024.05*: One paper about LLM Reasoning is accepted by <a href="https://2024.aclweb.org/">ACL 2024</a>.
 - *2023.06*: I earned my B.S. in Artificial Intelligence with a 1/31 overall ranking.
 - *2023.05*: One paper about LLM Summarization (SumCoT) is accepted by <a href="https://2023.aclweb.org/">ACL 2023</a>.
 - *2022.08*: One paper about Low-resource Summarization is accepted by <a href="https://coling2022.org/">COLING 2022</a>.
+
+
+
+
+# 📝 Selected Preprint
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/PolyMath.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts](https://arxiv.org/abs/2504.18428)
+
+**Yiming Wang**, Pei Zhang, Jialong Tang, Haoran Wei, Baosong Yang, Rui Wang, Chenshu Sun, Feitong Sun, Jiran Zhang, Junxuan Wu, Qiqian Cang, Yichang Zhang, Fei Huang, Junyang Lin, Fei Huang, Jingren Zhou
+
+<a href='https://github.com/QwenLM/PolyMath'><button class="code-btn">Code</button></a>
+<a href='https://huggingface.co/datasets/Alsace08/PolyMath'><button class="code-btn">Dataset</button></a>
+<a href='https://qwen-polymath.github.io/'><button class="code-btn">Leaderboard</button></a>
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/ST_BoN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)
+
+**Yiming Wang**, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang
+
+</div>
+</div>
+
 
 
 
@@ -65,7 +97,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 **[ACM Computing Surveys]** (SCI Q1, IF=23.8)
 
-<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Zoeyyao27/CoT-Igniting-Agent'><button class="code-btn">Code</button></a>
 
 <!-- * A comprehensive survey from Chain-of-Thought (CoT) technique to LLM agents -->
 
@@ -83,7 +115,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 **[ICLR 2025]** International Conference on Learning Representations
 
-<a href='https://github.com/Alsace08/Chain-of-Embedding'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Alsace08/Chain-of-Embedding'><button class="code-btn">Code</button></a>
 
   
 </div>
@@ -103,7 +135,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 <!-- <a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button type="button" class="btn btn-primary">CODE</button></a> -->
 <!-- <a href='https://arxiv.org/abs/2405.14039'><button type="button" class="btn btn-danger">PDF</button></a> -->
 
-<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Alsace08/OOD-Math-Reasoning'><button class="code-btn">Code</button></a>
 
 <!-- * We discover the ''pattern collapse'' phenomenon under mathematical reasoning -->
 <!-- * We propose embedding trajectory volatility (TV Score) to detect OOD samples -->
@@ -124,7 +156,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 **[ACL 2024 Findings]** Annual Meeting of the Association for Computational Linguistics
 
-<a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Alsace08/Meta-Reasoning'><button class="code-btn">Code</button></a>
 
 <!-- * We establish the equivalence mapping from semantics to symbols under the purely natural language -->
 <!-- * Meta-Reasoning substantially generalizes the reasoning capability of LLMs -->
@@ -145,7 +177,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 [**ACL 2023**] Annual Meeting of the Association for Computational Linguistics
 
-<a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/Alsace08/SumCoT'><button class="code-btn">Code</button></a>
 
 <!-- * We construct expert-writing element-aware summary test sets to evaluate general summarization systems more objectively -->
 <!-- * We revisit the zero-shot summarization ability of LLMs. -->
@@ -169,7 +201,7 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 **[COLING 2022]** International Conference on Computational Linguistics
 
 
-<a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">CODE</button></a>
+<a href='https://github.com/OpenSUM/CPSUM'><button class="code-btn">Code</button></a>
 
 <p style="color:red;"><b>This is my first research paper, and also the last one on the eve of the LLM era.</b></p>
 
@@ -182,7 +214,6 @@ Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, **Yim
 
 
 
-# 📝 Selected Preprint
 
 
 
