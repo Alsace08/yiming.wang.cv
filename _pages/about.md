@@ -54,7 +54,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 # 📝 Selected Preprint
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/PolyMath.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Evaluation</div><img src='images/PolyMath.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts](https://arxiv.org/abs/2504.18428)
