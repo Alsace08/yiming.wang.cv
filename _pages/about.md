@@ -20,7 +20,7 @@ redirect_from:
 
 ### **Hello, I'm Yiming Wang (王一鸣).**
 
-I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
+I was born in Jiangsu Province, China, in August 2001. I'm now a third-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
 
 
 # 📖 Educations
@@ -29,7 +29,7 @@ I was born in Jiangsu Province, China, in August 2001. I'm now a second-year Ph.
 
 
 # 💻 Internships
-- *2024.07 - Present*, Tongyi Laboratory, Alibaba, Hangzhou.
+- *2024.07 - 2025.05*, Tongyi Laboratory, Alibaba, Hangzhou.
     - Research Intern: Multi-lingual/modal LLMs; Mentor: <a href="https://baosongyang.site/">Dr. Baosong Yang</a>
 - *2023.03 - 2023.09*, Institute of AI Industry Research (AIR), Tsinghua University, Beijing.
     - Research Intern: AI for Science; Mentor: <a href="https://zhouh.github.io/">Prof. Hao Zhou</a>
@@ -69,12 +69,21 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 # 📝 Selected Preprint
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Evaluation</div><img src='images/PolyMath.png' alt="sym" width="100%"></div></div>
+
+
+# 📝 Selected Publications
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multilingual Reasoning</div><img src='images/PolyMath.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts](https://arxiv.org/abs/2504.18428)
 
 **Yiming Wang**, Pei Zhang, Jialong Tang, Haoran Wei, Baosong Yang, Rui Wang, Chenshu Sun, Feitong Sun, Jiran Zhang, Junxuan Wu, Qiqian Cang, Yichang Zhang, Fei Huang, Junyang Lin, Fei Huang, Jingren Zhou
+
+**[NeurIPS 2025]** Annual Conference on Neural Information Processing Systems
 
 <a href='https://github.com/QwenLM/PolyMath'><button class="code-btn">Code</button></a>
 <a href='https://huggingface.co/datasets/Alsace08/PolyMath'><button class="code-btn">Dataset</button></a>
@@ -86,23 +95,17 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning</div><img src='images/ST_BoN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Efficient Reasoning</div><img src='images/ST_BoN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)
+
+**[NeurIPS 2025]** Annual Conference on Neural Information Processing Systems
 
 **Yiming Wang**, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang
 
 </div>
 </div>
-
-
-
-
-
-# 📝 Selected Publications
-
-
 
 
 
