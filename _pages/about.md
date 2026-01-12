@@ -20,7 +20,7 @@ redirect_from:
 
 ### **Hello, I'm Yiming Wang (王一鸣).**
 
-I was born in Jiangsu Province, China, in August 2001. I'm now a third-year Ph.D. candidate at the Department of Computer Science and Engineering, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
+I was born in Jiangsu Province, China, in August 2001. I'm now a third-year Ph.D. candidate at the School of Computer Science, Shanghai Jiao Tong University, supervised by <a href="https://wangruinlp.github.io/">Prof. Rui Wang</a>. Before that, I received a Bachelor's degree from the Institute of Artificial Intelligence, Beihang University.
 
 
 # 📖 Educations
@@ -43,17 +43,18 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 * Interpretable AI:
   - Behavioral Laws in the Latent Space (Chain-of-Embedding, ICLR 2025)
-  - Controlled Meta-Behavioral Analysis like Physics
+  - Controlled Meta-Behavioral Analysis like Physics (Neural Theory-of-Mind Network, Preprint)
 
 * Machine Reasoning:
-  - Enhancing LLM Reasoning Ability and Efficiency (ST-BoN)
-  - Evaluating the Boundaries of LLM Reasoning (PolyMath)
+  - Enhancing LLM Reasoning Ability and Efficiency (ST-BoN, NeurIPS 2025)
+  - Evaluating the Boundaries of LLM Reasoning (PolyMath, NeurIPS 2025)
 
 
 
 
 # 🔥 News
 
+- *2025.09*: Two papers about Reasoning are accepted by <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>.
 - *2025.04*: 🎉We construct <a href="https://huggingface.co/datasets/Alsace08/PolyMath">PolyMath</a>, a challenging multilingual mathematical reasoning benchmark, used for standard evaluation by <a href="https://arxiv.org/abs/2505.09388">Qwen3</a>.
 - *2025.01*: Two papers about Interpretable AI and Mathematical Reasoning are accepted by <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
 - *2024.09*: One paper about Mathematical Reasoning and Out-of-Distribution Detection is accepted by <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.
@@ -100,7 +101,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 
 [Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)
 
-**[NeurIPS 2025]** Annual Conference on Neural Information Processing Systems
+**[NeurIPS 2025 (Spotlight)]** Annual Conference on Neural Information Processing Systems
 
 **Yiming Wang**, Pei Zhang, Siyuan Huang, Baosong Yang, Zhuosheng Zhang, Fei Huang, Rui Wang
 
@@ -113,7 +114,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interpretable AI, Trustworthy AI</div><img src='images/CoE-results.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation](https://arxiv.org/abs/2410.13640)
+[Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation](https://openreview.net/forum?id=jxo70B9fQo)
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang
 
@@ -130,7 +131,7 @@ My research field is Natural Language Processing (NLP). Now I mainly focus on th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Reasoning, Trustworthy AI</div><img src='images/TVscore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning](https://arxiv.org/abs/2405.14039)
+[Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning](https://openreview.net/forum?id=hYMxyeyEc5&noteId=lcgt2MxZFl)
 
 **Yiming Wang**, Pei Zhang, Baosong Yang, Derek F. Wong, Zhuosheng Zhang, Rui Wang
 
